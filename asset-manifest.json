@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sparu-kalkulators/static/css/main.20691310.css",
+    "main.js": "/sparu-kalkulators/static/js/main.20e0e872.js",
+    "index.html": "/sparu-kalkulators/index.html",
+    "main.20691310.css.map": "/sparu-kalkulators/static/css/main.20691310.css.map",
+    "main.20e0e872.js.map": "/sparu-kalkulators/static/js/main.20e0e872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20691310.css",
+    "static/js/main.20e0e872.js"
+  ]
+}
